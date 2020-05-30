@@ -1,7 +1,8 @@
+
 <h3>RGB LED</h3>
 
 <p>Click any color among following</p>
-
+<form action = https://api.particle.io/v1/devices/7ab764431b136a58a5a6bb54/led?access_token=9e2336318317344f45a4f4ae5873ba0e146d5688" method="POST">
 <p><p/>
 <input type="checkbox" name="red" /> red
 <br />
@@ -12,3 +13,5 @@
 <input type="submit" name="submit" value="TURN ON" />
 
 </form>
+
+
